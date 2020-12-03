@@ -1,0 +1,1 @@
+cmd_/home/zdc/mywork/project/firewall/filter.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-87-generic-pae/scripts/module-common.lds --build-id  -o /home/zdc/mywork/project/firewall/filter.ko /home/zdc/mywork/project/firewall/filter.o /home/zdc/mywork/project/firewall/filter.mod.o
